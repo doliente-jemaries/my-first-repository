@@ -14,10 +14,10 @@
  - GitHub hosts repositories online.
  - Commits record changes in the projects history.
 
-##My Computing Goals
+## My Computing Goals
 - Programming
 - Computers Parts
 - Software
 
-  ##My Favorite Technology
+  ## My Favorite Technology
 - I choose PC because I want to reach my Computing Goals. And make money because of this like work at home.
